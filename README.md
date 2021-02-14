@@ -11,3 +11,7 @@ What is the purpose really :(
 Deployment of this can be done by...
 
 ## How to contribute
+
+###Copyright
+
+2021 Git.ViciousCrabPeople

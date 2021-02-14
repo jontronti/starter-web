@@ -11,6 +11,7 @@ What is the purpose really :(
 Deployment of this can be done by...
 
 ## How to contribute
+Please fork this repository and then issue Pull Requests for review.
 
 ###Copyright
 

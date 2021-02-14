@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jonas Trondh jonas.trondh@gmail.com
 
 # THANKS
 
